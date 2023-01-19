@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\bin\Debug\net6.0\ASincrona.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\bin\Debug\net6.0\ASincrona.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\bin\Debug\net6.0\ASincrona.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\bin\Debug\net6.0\ASincrona.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\bin\Debug\net6.0\ASincrona.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\refint\ASincrona.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ASincrona.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\ASincrona\obj\Debug\net6.0\ref\ASincrona.dll
