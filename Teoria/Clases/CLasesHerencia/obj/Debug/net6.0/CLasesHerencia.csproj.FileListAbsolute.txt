@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\bin\Debug\net6.0\CLasesHerencia.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\bin\Debug\net6.0\CLasesHerencia.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\bin\Debug\net6.0\CLasesHerencia.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\bin\Debug\net6.0\CLasesHerencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\bin\Debug\net6.0\CLasesHerencia.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\refint\CLasesHerencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\CLasesHerencia.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\Clases\CLasesHerencia\obj\Debug\net6.0\ref\CLasesHerencia.dll

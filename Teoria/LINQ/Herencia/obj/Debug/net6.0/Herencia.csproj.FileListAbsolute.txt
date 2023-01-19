@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\bin\Debug\net6.0\Herencia.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\bin\Debug\net6.0\Herencia.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\bin\Debug\net6.0\Herencia.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\bin\Debug\net6.0\Herencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\bin\Debug\net6.0\Herencia.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\refint\Herencia.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\Herencia.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Herencia\obj\Debug\net6.0\ref\Herencia.dll
