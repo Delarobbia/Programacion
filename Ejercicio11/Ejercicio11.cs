@@ -1,5 +1,5 @@
 ﻿
-/*Console.WriteLine("Lenguajes:\n1.C++\n2.Java\n3.C#");
+Console.WriteLine("Lenguajes:\n1.C++\n2.Java\n3.C#");
 Console.WriteLine("Seleccione lenguaje:");
 int sel = Convert.ToInt32(Console.ReadLine());
 switch (sel)
@@ -14,7 +14,6 @@ switch (sel)
         break;
     default:
         break;
-}*/
-Console.WriteLine(@"Prueba""Entrecomillas"".");
+}
 
 
