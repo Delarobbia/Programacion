@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\bin\Debug\net6.0\Ejerccicio10.exe
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\bin\Debug\net6.0\Ejerccicio10.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\bin\Debug\net6.0\Ejerccicio10.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\bin\Debug\net6.0\Ejerccicio10.dll
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\bin\Debug\net6.0\Ejerccicio10.pdb
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.dll
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\refint\Ejerccicio10.dll
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.pdb
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\Ejerccicio10.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Ejerccicio10\obj\Debug\net6.0\ref\Ejerccicio10.dll
