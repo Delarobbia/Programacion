@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\bin\Debug\net6.0\multithreating.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\bin\Debug\net6.0\multithreating.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\bin\Debug\net6.0\multithreating.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\bin\Debug\net6.0\multithreating.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\bin\Debug\net6.0\multithreating.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\refint\multithreating.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\multithreating.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\multithreating\obj\Debug\net6.0\ref\multithreating.dll

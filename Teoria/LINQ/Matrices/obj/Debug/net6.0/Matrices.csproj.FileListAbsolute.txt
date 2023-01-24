@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\bin\Debug\net6.0\Matrices.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\bin\Debug\net6.0\Matrices.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\bin\Debug\net6.0\Matrices.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\bin\Debug\net6.0\Matrices.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\bin\Debug\net6.0\Matrices.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\refint\Matrices.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\Matrices.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Matrices\obj\Debug\net6.0\ref\Matrices.dll
