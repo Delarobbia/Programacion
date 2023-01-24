@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\bin\Debug\net6.0\Indizadores.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\bin\Debug\net6.0\Indizadores.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\bin\Debug\net6.0\Indizadores.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\bin\Debug\net6.0\Indizadores.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\bin\Debug\net6.0\Indizadores.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\refint\Indizadores.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\Indizadores.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Indizadores\obj\Debug\net6.0\ref\Indizadores.dll

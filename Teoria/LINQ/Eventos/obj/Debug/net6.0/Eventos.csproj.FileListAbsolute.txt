@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\bin\Debug\net6.0\Eventos.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\bin\Debug\net6.0\Eventos.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\bin\Debug\net6.0\Eventos.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\bin\Debug\net6.0\Eventos.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\bin\Debug\net6.0\Eventos.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\refint\Eventos.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\Eventos.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Eventos\obj\Debug\net6.0\ref\Eventos.dll

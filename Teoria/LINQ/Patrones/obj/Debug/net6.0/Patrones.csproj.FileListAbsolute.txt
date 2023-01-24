@@ -1,0 +1,15 @@
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\bin\Debug\net6.0\Patrones.exe
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\bin\Debug\net6.0\Patrones.deps.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\bin\Debug\net6.0\Patrones.runtimeconfig.json
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\bin\Debug\net6.0\Patrones.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\bin\Debug\net6.0\Patrones.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.csproj.AssemblyReference.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfoInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.AssemblyInfo.cs
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\refint\Patrones.dll
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.pdb
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\Patrones.genruntimeconfig.cache
+C:\Users\carec\Desktop\Programacion\C#\Teoria\LINQ\Patrones\obj\Debug\net6.0\ref\Patrones.dll
